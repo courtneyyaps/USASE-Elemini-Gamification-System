@@ -1,0 +1,19 @@
+.pageHeader, .sectionHeader {
+    text-align: center;
+    margin-top: 5%;
+}
+.sectionHeader {
+    margin-bottom: 2%;
+}
+.instructions {
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.last {
+    margin-bottom: 10%;
+}
