@@ -1,6 +1,7 @@
 
 body{
     background-color: #679058;
+    /*font-family: Tahoma, Verdana, Segoe, sans-serif;*/
     font-family: 'Roboto Slab';
 }
 ul {
@@ -66,7 +67,6 @@ ul {
   }*/
   /*floating the divs*/
   .container {
-    
     padding: 20px;
   }
 
@@ -82,3 +82,21 @@ ul {
 button:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
+  /*leaderboard*/
+  table {
+    border-collapse: collapse;
+    width: 60%;
+    margin:auto;
+  }
+  
+  td, th {
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+    color:bisque;
+    
+  }
+  .titles{
+    background-color:rgb(1, 15, 2);
+  }
+  
