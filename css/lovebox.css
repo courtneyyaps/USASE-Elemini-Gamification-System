@@ -1,6 +1,18 @@
+@font-face {
+    src: url(../fonts/CheddarGothicRough-Regular.otf);
+    font-family: cheddar;
+
+    src: url(../fonts/CheddarGothicRough-Italic.otf);
+    font-family: cheddar-italic;
+
+    src: url(../fonts/QuisasStandard-Regular.otf);
+    font-family: quis;
+}
+
 .pageHeader, .sectionHeader {
     text-align: center;
-    margin-top: 5%;
+    font-family: quis;
+    font-size: 60pt;
 }
 
 form {
@@ -15,3 +27,42 @@ form {
     padding-right: 5%;
     padding-bottom: 10%;
 }
+
+.top {
+    background-color: white;
+    padding-top: 1%;
+}
+.grass {
+    margin-top: -20%;
+    min-width: 100%;
+    max-width: 100%;
+}
+.bottom {
+    background: #007231;
+}
+
+/*source: https://codepen.io/floorvrmt/pen/qQPEKQ*/
+.btn {
+    margin: 0 auto;
+    display: block;
+  }
+  /*removes ugly bootstrap border button*/
+  *.btn:active,
+  .btn:focus,
+  .btn:active:focus,
+  .btn:focus {
+    outline: none !important;
+  }
+  
+  button > span {
+    color: red;
+    font-size:20px;
+  }
+  
+  .btn:active {
+    box-shadow: none;
+  }
+  
+  .btn:active, .btn:hover, .btn:focus {
+    background-color:white;
+  }
