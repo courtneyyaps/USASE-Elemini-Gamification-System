@@ -9,6 +9,10 @@
   font-family: quis;
 }
 
+.navHeader {
+  font-family: cheddar-italic;
+}
+
 body{
     background-color: #679058;
     /*font-family: Tahoma, Verdana, Segoe, sans-serif;*/
