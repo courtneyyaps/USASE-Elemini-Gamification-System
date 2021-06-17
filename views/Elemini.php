@@ -6,7 +6,6 @@ echo "    <meta charset=\"UTF-8\">\n";
 echo "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n";
 echo "    <title>Elemini</title>\n";
 echo "    <link rel=\"stylesheet\" href=\"../css/Elemini.css\">\n";
-echo "    <link rel=\"stylesheet\" href=\"../css/style.css\">\n";
 echo "</head>\n";
 echo "<body>\n";
 include 'menubar.php';

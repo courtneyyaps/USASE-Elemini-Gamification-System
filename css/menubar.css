@@ -1,0 +1,41 @@
+@font-face {
+    src: url(../fonts/CheddarGothicRough-Regular.otf);
+    font-family: cheddar;
+  
+    src: url(../fonts/CheddarGothicRough-Italic.otf);
+    font-family: cheddar-italic;
+  
+    src: url(../fonts/QuisasStandard-Regular.otf);
+    font-family: quis;
+  }
+  
+.navHeader {
+    font-family: cheddar-italic;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: darkgrey;
+  }
