@@ -40,7 +40,7 @@ echo "</div>";
 echo "</div>";
 echo "<div class=\"form-group\">";
 echo "<label>Message</label>";
-echo "<textarea class=\"form-control\" rows=\"4\" placeholder=\"Your heartfelt message that"s probably about feet...\" required></textarea>";
+echo "<textarea class=\"form-control\" rows=\"4\" placeholder=\"Your heartfelt message that\"s probably about feet...\" required></textarea>";
 echo "</div>";
 echo "</form>";
 echo "<img class=\"grass\" src=\"../images/grasswsign.png\" alt=\"grass\">";
