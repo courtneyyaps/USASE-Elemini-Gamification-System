@@ -125,4 +125,5 @@ echo "</div>";
 echo "</div>";
 echo "<!-- End of Masonry-like Body -->";
 echo "</body>";
+echo "</html>";
 ?>
