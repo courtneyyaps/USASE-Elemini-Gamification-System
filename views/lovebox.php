@@ -45,6 +45,7 @@ echo "</div>";
 echo "</form>";
 echo "<img class=\"grass\" src=\"../images/grasswsign.png\" alt=\"grass\">";
 echo "</div>";
+
 echo "<div class=\"bottom\">";
 echo "<!-- Card Masonry-like Body -->";
 echo "<!-- Plan: dynamicaly add new cards based on table -->";
@@ -58,6 +59,8 @@ echo "<small class=\"text-muted\">From: Arieeees</small>";
 echo "<i class=\"far fa-heart\"></i>";
 echo "</p>";
 echo "</div>";
+echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Card title1</h5>";
@@ -65,6 +68,7 @@ echo "<p class=\"card-text\">“You lift me up and hold me down, you make me smi
 echo "<p class=\"card-text\"><small class=\"text-muted\">From: 2cute4u</small></p>";
 echo "</div>";
 echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Card title</h5>";
@@ -72,6 +76,7 @@ echo "<p class=\"card-text\">This card has supporting text below as a natural le
 echo "<p class=\"card-text\"><small class=\"text-muted\">From: bb baby</small></p>";
 echo "</div>";
 echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Arrurr</h5>";
@@ -79,6 +84,7 @@ echo "<p class=\"card-text\">Get gud ggnore</p>";
 echo "<p class=\"card-text\"><small class=\"text-muted\">From: Arieeees</small></p>";
 echo "</div>";
 echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Test Name</h5>";
@@ -93,6 +99,7 @@ echo "<p class=\"card-text\">This card has supporting text below as a natural le
 echo "<p class=\"card-text\"><small class=\"text-muted\">From: pp baby</small></p>";
 echo "</div>";
 echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Card title1</h5>";
@@ -100,6 +107,7 @@ echo "<p class=\"card-text\">“I can’t sing, but your love makes me want to g
 echo "<p class=\"card-text\"><small class=\"text-muted\">From: 2cute4u</small></p>";
 echo "</div>";
 echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Card title1</h5>";
@@ -107,6 +115,7 @@ echo "<p class=\"card-text\">“You lift me up and hold me down, you make me smi
 echo "<p class=\"card-text\"><small class=\"text-muted\">From: 2cute4u</small></p>";
 echo "</div>";
 echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Card title</h5>";
@@ -114,6 +123,7 @@ echo "<p class=\"card-text\">“I can’t sing, but your love makes me want to g
 echo "<p class=\"card-text\"><small class=\"text-muted\">From: bb baby</small></p>";
 echo "</div>";
 echo "</div>";
+
 echo "<div class=\"card text-center\">";
 echo "<div class=\"card-body\">";
 echo "<h5 class=\"card-title\">To: Test Name</h5>";
@@ -123,6 +133,7 @@ echo "</div>";
 echo "</div>";
 echo "</div>";
 echo "</div>";
+
 echo "<!-- End of Masonry-like Body -->";
 echo "</body>";
 echo "</html>";
