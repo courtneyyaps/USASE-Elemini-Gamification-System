@@ -1,0 +1,42 @@
+@font-face {
+    src: url(../fonts/CheddarGothicRough-Italic.otf);
+    font-family: cheddar-italic;
+}
+
+.pageHeader {
+    
+    font-family: cheddar-italic;
+}
+.pfp {
+    height: 125pt;
+    width: auto;
+}
+.pfp-area h1 {
+    text-align: center;
+}
+.pfp-area img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sectionHeader {
+    margin-bottom: 2%;
+}
+.instructions {
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.section {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.last {
+    margin-bottom: 10%;
+}
+.outter {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
