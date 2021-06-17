@@ -107,11 +107,11 @@ button:hover {
     border-bottom: 1px solid #dddddd;
     text-align: center;
     padding: 10px;
-    color:bisque;
+    color:rgb(28, 29, 29);
     
   }
   .titles{
-    background-color:rgb(1, 15, 2);
+    background-color:burlywood;
   }
   /*lovetap*/
   .grid-container {
