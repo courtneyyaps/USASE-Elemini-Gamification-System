@@ -1,1 +1,1 @@
-web: heroku-php-apache2 views/Elemini.php
+web: heroku-php-apache2 views/
