@@ -1,5 +1,5 @@
 <?php
-echo "    <link rel=\"stylesheet\" href=\"../css/style.css\">\n";
+echo "    <link rel=\"stylesheet\" href=\"../css/menubar.css\">\n";
 echo "<ul>\n";
 echo "<li><a href=\"Elemini.php\">\n";
 echo "<img id=\"logo\" src=\"../images/uvsase_darkbg_logomark-e1503005399285.png\" alt=\"UVSASE Logo\"width=25>\n";

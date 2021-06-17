@@ -24,7 +24,7 @@ echo "        </a></li>\n";
 echo "        <li><a class=\"navHeader\" href=\"#home\">ELEMINI</a></li>\n";
 echo "        <li style=\"float:right\"><a  href=\"sign_in.html\">Register</a></li>\n";
 echo "        <li style=\"float:right\"><a class=\"active\" href=\"login.html\">Login</a></li>\n";
-echo "    </ul>\n";/*
+echo "    </ul>\n";*/
 echo "\n";
 echo "    <div class=\"top\">\n";
 echo "    <!-- Title -->\n";
