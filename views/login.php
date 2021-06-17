@@ -36,7 +36,7 @@ echo "                        <button type=\"submit\" id=\"checks\" class=\"but\
 echo "                        <!--<label for=\"checkbox\"class=\"login\">\n";
 echo "                            <input type=\"checkbox\" checked=\"checked\" name=\"remember\">Remember me\n";
 echo "                        </label>-->\n";
-echo "                        <p style= \"margin-top:7%; margin-bottom:25%;\">Don't have an account? <a href=\"sign_in.html\">Register</a>.</p>\n";
+echo "                        <p style= \"margin-top:7%; margin-bottom:25%;\">Don't have an account? <a href=\"sign_in.php\">Register</a>.</p>\n";
 echo "                    </fieldset>\n";
 echo "                    \n";
 echo "            </div>\n";

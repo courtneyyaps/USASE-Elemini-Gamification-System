@@ -40,7 +40,7 @@ echo "<button type=\"submit\" id=\"checks\" class=\"but\">Sign Up</button><br>\n
 echo "<!--<label for=\"checkbox\"class=\"login\">\n";
 echo "<input type=\"checkbox\" checked=\"checked\" name=\"remember\">Remember me\n";
 echo "</label>-->\n";
-echo "<p style= \"margin-top:7%; margin-bottom:10%;\">Already have an account? <a href=\"login.html\">Login</a>.</p>\n";
+echo "<p style= \"margin-top:7%; margin-bottom:10%;\">Already have an account? <a href=\"login.php\">Login</a>.</p>\n";
 echo "</fieldset>\n";
 echo "\n";
 echo "</div>\n";
