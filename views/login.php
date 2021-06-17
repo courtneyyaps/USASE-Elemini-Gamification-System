@@ -1,4 +1,29 @@
 <?php
+<<<<<<< HEAD
+require('database.php');
+$email=$_POST['email'];
+$password=$_POST['password'];
+//$check=$_POST['remember'];
+$query="SELECT * FROM users WHERE email='$email' AND password='$password'";
+$data=$db->query($query);
+if($data->rowCount()>0){
+    session_start();
+    $_SESSION['email'] = $email;
+    $_SESSION['flag']=TRUE;
+    
+    header('Location:Elemini.html');
+    
+    if($check=='1'){
+        setcookie("mycookie", TRUE, time()+1000);
+    }
+}
+else{
+    $err = "Email or Password is incorrect.";
+    include('login.php');
+}
+?>
+
+=======
 echo "<!doctype html>\n";
 echo "<link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1\" crossorigin=\"anonymous\">\n";
 echo "<link href='https://fonts.googleapis.com/css?family=Roboto Slab' rel='stylesheet'>\n";
@@ -53,3 +78,4 @@ echo "    </body>\n";
 echo "</html>";
 
 ?>
+>>>>>>> 7594cbd3922fd626a125c1473e428d68d7c36952

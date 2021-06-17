@@ -113,4 +113,17 @@ button:hover {
   .titles{
     background-color:rgb(1, 15, 2);
   }
+  /*lovetap*/
+  .grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    
+    padding: 10px;
+  }
   
+  .grid-item {
+    
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
