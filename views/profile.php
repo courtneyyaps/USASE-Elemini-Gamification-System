@@ -13,7 +13,7 @@
 <body>
 <?php include('menubar.php'); ?>
 
-<h1> Profile Page </h1>
+<h1 style="font-family: cheddar; text-align: center; margin-top: 20pt;"> Profile Page </h1>
 
     <div class="card outter">
         <div class="card-body">
@@ -33,10 +33,10 @@
                                     <div class="row">
                                         <div class="col-6 col-md-4"> 
                                             
-                                            <div class="card bg-light mb-3" style="max-width: 150pt;">
-                                                <div class="card-header">Team</div>
+                                            <div class="card bg-light mb-3" style="max-width: 100pt; margin-top: 35pt;">
+                                                <div class="card-header" style="font-size: 20pt;">Team</div>
                                                 <div class="card-body">
-                                                    <h5 class="card-title">Peaches</h5>
+                                                    <h5 class="card-title" style="font-size: 20pt;">Peaches</h5>
                                                 </div>
                                             </div>
 
@@ -80,29 +80,26 @@
                 <table class="table table-hover">
                     <thead>
                         <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">First</th>
-                        <th scope="col">Last</th>
-                        <th scope="col">Handle</th>
+                        <th scope="col">Section</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Panelist</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                        <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <th scope="row">Saturday, 2:00PM</th>
+                        <td>Workshop Title1</td>
+                        <td>Panelist1</td>
                         </tr>
                         <tr>
-                        <th scope="row">2</th>
-                        <td>Jacob</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <th scope="row">Sunday, 12:00PM</th>
+                        <td>Workshop Title2</td>
+                        <td>Panelist2</td>
                         </tr>
                         <tr>
-                        <th scope="row">3</th>
-                        <td colspan="2">Larry the Bird</td>
-                        <td>@twitter</td>
+                        <th scope="row">Sunday, 1:00PM</th>
+                        <td>Workshop Title3</td>
+                        <td>Panelist3</td>
                         </tr>
                     </tbody>
                     </table>
@@ -110,6 +107,34 @@
                 </div>
             </div>
 
+            <div class="container">
+            <div class="row">
+                <div class="col-sm" style="font-size: 25pt;">
+                Saturday, June 26th @ 2:00PM - 3:00PM
+                <br><p>- Penguyen & I: Business From Scratch
+                <br>- How to Live Life at Half Price
+                <br>- Indigenous cultures in Vietnam
+                <br>- Find Your Asian Drama Match
+                </p>
+                </div>
+                <div class="col-sm" style="font-size: 25pt;">
+                Sunday, June 27th @ 12:00PM - 1:00PM
+                <br><p>- How to Cultivate a Productive Space
+                <br>- The Vietnamese Wedding
+                <br>- A Hidden Enemy: Microaggressions
+                <br>- Black Lives Matter
+                </p>
+                </div>
+                <div class="col-sm" style="font-size: 25pt;">
+                Sunday, June 27th @ 1:00PM -2:00PM
+                <br><p>- Professionalism: SWAG
+                <br>- How to Get a Job: Starter Pack
+                <br>- Improv Comedy
+                <br>- Dismantling the AAPI Girlboss
+                </p>
+                </div>
+            </div>
+            </div>
            
         </div>
      </div>
