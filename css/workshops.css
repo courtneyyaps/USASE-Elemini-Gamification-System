@@ -3,6 +3,10 @@
     font-family: cheddar;
 }
 @font-face {
+    src: url(../fonts/CheddarGothicRough-Italic.otf);
+    font-family: cheddar-italic;
+}
+@font-face {
     src: url(../fonts/QuisasStandard-Regular.otf);
     font-family: quis;
 }
@@ -30,8 +34,9 @@
     margin-bottom: 5%;
 }
 h5 .card-title {
-    font-family: cheddar;
+
 }
 h6 .card-title {
     font-family: quis;
 }
+

@@ -42,8 +42,8 @@
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/ducal.jpeg" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title">Ducal Hoang (he/him)</h6>
-              <h5 class="card-title" style="padding-botom: 30pt;">Penguyen & I: <br>Business From Scratch</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Ducal Hoang (he/him)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">Penguyen & I: Business From Scratch</h5>
               <div style="padding-bottom: 15pt;">
                 <span class="badge badge-warning">Professional</span>
                 <span class="badge badge-success">Business</span>
@@ -57,8 +57,8 @@
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/oliver.jpg" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title" style="padding-botom: 60pt;">Oliver Truong (he/him)</h6>
-              <h5 class="card-title">How to Live Life at Half Price</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Oliver Truong (he/him)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">How to Live Life at Half Price</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Personal</span>
               <span class="badge badge-success">Finance</span>
@@ -72,8 +72,8 @@
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/kelly.png" alt="Card image cap">
             <div class="card-body">
-              <h6 class="card-title">Kelly Tran (she/her)</h6>
-              <h5 class="card-title">Indigenous cultures in Vietnam</h5>
+              <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Kelly Tran (she/her)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">Indigenous cultures in Vietnam</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Cultural</span>
               <span class="badge badge-success">Indigenous</span>
@@ -89,8 +89,8 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
               <img class="card-img-top" src="../images/speakers/teresa.jpg" alt="Card image cap">
               <div class="card-body">
-              <h6 class="card-title">Teresa Tran (she/her)</h6>
-                <h5 class="card-title">Find Your Asian Drama Match: How Asian Dramas Saved Me During the Pandemic</h5>
+              <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Teresa Tran (she/her)</h6>
+                <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">Find Your Asian Drama Match: How Asian Dramas Saved Me During the Pandemic</h5>
                 <div style="padding-bottom: 15pt;">
                 <span class="badge badge-warning">Cultural</span>
                 <span class="badge badge-success">Mental Health</span>
@@ -111,8 +111,8 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/diana.png" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title">Diana Chu (she/her)</h6>
-              <h5 class="card-title">How to Cultivate a Healthy and Productive Space for Our Minds</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Diana Chu (she/her)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">How to Cultivate a Healthy and Productive Space for Our Minds</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Personal</span>
               <span class="badge badge-success">Mental Health</span>
@@ -126,8 +126,8 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/albertsq.JPG" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title">Albert Pham (he/him)</h6>
-              <h5 class="card-title">The Vietnamese Wedding</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Albert Pham (he/him)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">The Vietnamese Wedding</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Cultural</span>
               <span class="badge badge-success">Interactive</span>
@@ -141,8 +141,8 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/natalie.jpg" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title">Natalie Trinh (she/her)</h6>
-              <h5 class="card-title">A Hidden Enemy: Microaggressions</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Natalie Trinh (she/her)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">A Hidden Enemy: Microaggressions</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Civic Engagement</span>
               <span class="badge badge-success">Racism</span>
@@ -157,8 +157,8 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
               <img class="card-img-top" src="../images/speakers/kentt.jpg" alt="Card image cap">
               <div class="card-body">
-              <h6 class="card-title">Kent Tong (he/him)</h6>
-                <h5 class="card-title">Black Lives Matter: Identifying and Addressing Anti-Black Racism</h5>
+              <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Kent Tong (he/him)</h6>
+                <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">Black Lives Matter: Identifying and Addressing Anti-Black Racism</h5>
                 <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Civic Engagement</span>
               <span class="badge badge-success">Racism</span>
@@ -179,9 +179,9 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/stevencrop.JPG" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title">Steven Van Tran (he/him)</h6>
-            <h6 class="card-title">Nhilynn Nguyen (she/her)</h6>
-              <h5 class="card-title">Professionalism: Something We Asians Got (SWAG)</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Steven Van Tran (he/him)</h6>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -25pt;">Nhilynn Nguyen (she/her)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">Professionalism: Something We Asians Got (SWAG)</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Professional</span>
               <span class="badge badge-success">Resumes</span>
@@ -196,9 +196,9 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/jessicacrop.JPG" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title">Jessica Kweon (she/her)</h6>
-            <h6 class="card-title">Liam Kim (he/him)</h6>
-              <h5 class="card-title">How to Get a Job: Starter Pack</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Jessica Kweon (she/her)</h6>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -25pt;">Liam Kim (he/him)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">How to Get a Job: Starter Pack</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Professional</span>
               <span class="badge badge-success">Personal Development</span>
@@ -212,8 +212,8 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
             <img class="card-img-top" src="../images/speakers/phong.jpg" alt="Card image cap">
             <div class="card-body">
-            <h6 class="card-title">Phong Le (he/him)</h6>
-              <h5 class="card-title">Improv Comedy - Take Life Less Seriously</h5>
+            <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Phong Le (he/him)</h6>
+              <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">Improv Comedy - Take Life Less Seriously</h5>
               <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Personal</span>
               <span class="badge badge-success">Comedy</span>
@@ -227,8 +227,8 @@ politics, technology, and even our society as a whole, it is important to acknow
           <div class="card" style="box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.7);">
               <img class="card-img-top" src="../images/speakers/teresa.jpg" alt="Card image cap">
               <div class="card-body">
-              <h6 class="card-title">Teresa Tran (she/her)</h6>
-                <h5 class="card-title">Dismantling the AAPI Girlboss: Is Hustle Culture Healthy For Us?</h5>
+              <h6 class="card-title" style="font-family: quis; font-size: 30pt; margin-top: -10pt;">Teresa Tran (she/her)</h6>
+                <h5 class="card-title" style="padding-botom: 30pt; font-family: cheddar-italic;">Dismantling the AAPI Girlboss: Is Hustle Culture Healthy For Us?</h5>
                 <div style="padding-bottom: 15pt; padding-top: 20pt;">
               <span class="badge badge-warning">Civic Engagement</span>
               <span class="badge badge-success">Awareness</span>
