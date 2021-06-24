@@ -34,6 +34,7 @@
         <div class="form-group">
             <label>Message</label>
             <textarea class="form-control" rows="4" placeholder="Your heartfelt message that's probably about feet..." required></textarea>
+<<<<<<< HEAD
             <button type="button" class="form-control btn btn-light" style="position: relative; z-index: 1; margin-top: 10pt;">Submit</button>
           </div>
         
@@ -43,6 +44,15 @@
 
     </div> 
     <div class="bottom" style="background: #386033">
+=======
+          </div>
+    </form>
+
+    <img class="grass" src="../images/grass-01.png" alt="grass">
+
+    </div> 
+    <div class="bottom">
+>>>>>>> 92a8353160bf76367dd928618cc3ea80b6ba74e4
     <!-- Card Masonry-like Body -->
     <!-- Plan: dynamicaly add new cards based on table -->
     <div id="masonry" class="card-columns">
