@@ -24,13 +24,12 @@
         <div class="card-header">
           Instructions
         </div>
-        <div class="card-body">
-
-          <p>You will see below that there are 4 different options for each workshop time slot. <br>Please select <b>one workshop</b> for each timeslot</p>
-          <p>The workshop timeslots are as follows:</p>
-            <li>&nbsp;&nbsp;&nbsp;&nbsp;Section #1: Saturday, Nov. 21st @ 10:40AM - 11:55AM ET</li>
-            <br><li>&nbsp;&nbsp;&nbsp;&nbsp;Section #2: Saturday, Nov. 21st @ 10:40AM - 11:55AM ET</li>
-            <br><li>&nbsp;&nbsp;&nbsp;&nbsp;Section #3: Saturday, Nov. 21st @ 10:40AM - 11:55AM ET</li>
+        <div class="card-body" style="text-align: center;">
+          <p>You will see below that there are different options for each workshop time slot. <br>Please select <b>1 workshop</b> for each timeslot</p>
+          <p>The workshop timeslots are as follows:
+            <br>- Section #1: Saturday, June 26th @ 2:00PM - 3:00PM ET</li>
+            <br>- Section #2: Sunday, June 27th @ 12:00PM - 1:00PM ET</li>
+            <br>- Section #3: Sunday, June 27th @ 1:00PM -2:00PM ET</li></p>
           <p><b><br>Please choose your workshop carefully, as you will not be able to change your workshop on this portal if you regret your choice.</b></p>
       
         </div>
@@ -118,7 +117,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-warning">Personal</span>
               <span class="badge badge-success">Mental Health</span>
               </div>
-              <p class="card-text">Mental health is important in all areas of our life. It's important that we have a healthy psychological space to call our own, where we can retreat when things get overwhelming and re-energize to take on that project or difficult conversations. Join us for an interactive workshop exploring techniques for cultivating a positive mental space for stress reduction and productivity. Tools will include practical steps to set up for optimal mental health in your workplace or home.</p>
+              <p class="overflow-auto card-text h-50">Mental health is important in all areas of our life. It's important that we have a healthy psychological space to call our own, where we can retreat when things get overwhelming and re-energize to take on that project or difficult conversations. Join us for an interactive workshop exploring techniques for cultivating a positive mental space for stress reduction and productivity. Tools will include practical steps to set up for optimal mental health in your workplace or home.</p>
             </div>
             <div class="card-footer">
               <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>
@@ -133,7 +132,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-warning">Cultural</span>
               <span class="badge badge-success">Interactive</span>
               </div>
-              <p class="card-text">In this session, participants will learn about the extensive Vietnamese wedding process while also experiencing a simulated version of it themselves! The goal is to encourage participants to implement these wedding traditions in their future ceremonies.</p>
+              <p class="overflow-auto card-text h-50">In this session, participants will learn about the extensive Vietnamese wedding process while also experiencing a simulated version of it themselves! The goal is to encourage participants to implement these wedding traditions in their future ceremonies.</p>
             </div>
             <div class="card-footer">
               <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>
@@ -149,7 +148,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-success">Racism</span>
               <span class="badge badge-success">Sexism</span>
               </div>
-              <p class="card-text">Many of us who identify as a visible minority would have faced some form of racism at least once in our lives. Those who identify as a woman may experience sexism as well. While some of these unfortunate experiences are blatant, we do not typically take the time to stop and think about its subtler form, microaggressions. These intentional or unintentional negative slights play a big part in the hidden daily struggle that minorities and women face. This workshop hopes to bring attention to understanding how instances of microaggressions happen in day-to-day life and how we can work to reduce or avoid the use of microaggressions.</p>
+              <p class="overflow-auto card-text h-50">Many of us who identify as a visible minority would have faced some form of racism at least once in our lives. Those who identify as a woman may experience sexism as well. While some of these unfortunate experiences are blatant, we do not typically take the time to stop and think about its subtler form, microaggressions. These intentional or unintentional negative slights play a big part in the hidden daily struggle that minorities and women face. This workshop hopes to bring attention to understanding how instances of microaggressions happen in day-to-day life and how we can work to reduce or avoid the use of microaggressions.</p>
             </div>
             <div class="card-footer">
               <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>
@@ -165,7 +164,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-success">Racism</span>
               <span class="badge badge-success">Anti-Blackness</span>
               </div>
-                <p class="card-text">This past year, the country faced a long-overdue racial reckoning that resulted in a worldwide protest in support of Black lives and against police brutality. For many, understanding the country's history of racial violence, especially against Black people, may be new. This workshop will identify the many ways racism is perpetuated against Black people, and address topics such as White Privilege, Reverse Racism, African American Vernacular English/Black Vernacular English, Digital Blackface, anti-Blackness in the Asian American community, examples of solidarity between the two communities, and how Asian Americans can be allies to the Black community. Please note: this workshop is intended to serve as an introduction to the topics of anti-Black racism, specifically individuals who are new/not as knowledgeable about the topic. If you already have a strong understanding of institutional and systemic racism, this may not be a beneficial workshop for you. However, you are still more than welcome to join!</p>
+                <p class="overflow-auto card-text h-50">This past year, the country faced a long-overdue racial reckoning that resulted in a worldwide protest in support of Black lives and against police brutality. For many, understanding the country's history of racial violence, especially against Black people, may be new. This workshop will identify the many ways racism is perpetuated against Black people, and address topics such as White Privilege, Reverse Racism, African American Vernacular English/Black Vernacular English, Digital Blackface, anti-Blackness in the Asian American community, examples of solidarity between the two communities, and how Asian Americans can be allies to the Black community. Please note: this workshop is intended to serve as an introduction to the topics of anti-Black racism, specifically individuals who are new/not as knowledgeable about the topic. If you already have a strong understanding of institutional and systemic racism, this may not be a beneficial workshop for you. However, you are still more than welcome to join!</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>
@@ -188,7 +187,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-success">Resumes</span>
               <span class="badge badge-success">Networking</span>
               </div>
-              <p class="card-text">Got ghosted by a recruiter? No response from that LinkedIn application? Maybe it’s .. you. Explore resume building, digital networking, professional organizations, and other tips to improve your swag (and score that follow-up email). Remember, swag isn’t a hobby, it’s our occupation.</p>
+              <p class="overflow-auto card-text h-50">Got ghosted by a recruiter? No response from that LinkedIn application? Maybe it’s .. you. Explore resume building, digital networking, professional organizations, and other tips to improve your swag (and score that follow-up email). Remember, swag isn’t a hobby, it’s our occupation.</p>
             </div>
             <div class="card-footer">
               <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>
@@ -204,7 +203,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-warning">Professional</span>
               <span class="badge badge-success">Personal Development</span>
               </div>
-              <p class="card-text">“In this workshop, we will discuss the components necessary for marketing yourself with the goal of obtaining internships, jobs, leadership positions, and other opportunities. We will cover the basics of writing resumes, Curriculum Vitaes (CV), cover letters, and interview tips so that you can put your best foot forward!</p>
+              <p class="overflow-auto card-text h-50">“In this workshop, we will discuss the components necessary for marketing yourself with the goal of obtaining internships, jobs, leadership positions, and other opportunities. We will cover the basics of writing resumes, Curriculum Vitaes (CV), cover letters, and interview tips so that you can put your best foot forward!</p>
             </div>
             <div class="card-footer">
               <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>
@@ -219,7 +218,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-warning">Personal</span>
               <span class="badge badge-success">Comedy</span>
               </div>
-              <p class="card-text">Life's a joke, so you might as well be a clown. Come learn the very basics of improv comedy and how to apply these lessons to your personal situations. Sometimes your plans don't stick to a script, but that doesn't mean your story is ruined. Quite often, your journey is more like a rollercoaster. It's up to you whether you're laughing on the ride or puking into your own mouth because roller coasters move forward at intense speeds and even if you puke, it'll just literally fly back down your throat. Come with an open mind and have some fun.</p>
+              <p class="overflow-auto card-text h-50">Life's a joke, so you might as well be a clown. Come learn the very basics of improv comedy and how to apply these lessons to your personal situations. Sometimes your plans don't stick to a script, but that doesn't mean your story is ruined. Quite often, your journey is more like a rollercoaster. It's up to you whether you're laughing on the ride or puking into your own mouth because roller coasters move forward at intense speeds and even if you puke, it'll just literally fly back down your throat. Come with an open mind and have some fun.</p>
             </div>
             <div class="card-footer">
               <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>
@@ -234,7 +233,7 @@ politics, technology, and even our society as a whole, it is important to acknow
               <span class="badge badge-warning">Civic Engagement</span>
               <span class="badge badge-success">Awareness</span>
               </div>
-                <p class="card-text">Ever heard of the AAPI Girlboss? The Asian American young woman who pulls all nighters for work or assignments, misses meals because she is simply glued to her desk and can't get away, has an itemized color-coded calendar full of meetings, events, and extracurriculars, and looks like she has it all together as she moves up the social and economic ladder. Looking at her, it seems the harder you work, the more successful you are. But the reality is far harsher: she's not life goals. She's unhealthy, a workaholic, and probably has crumbling mental health as she fights to prove she's good enough in a predominantly white male society. This workshop aims to dismantle the trope of the AAPI girlboss by unpacking the effects of the model minority and meritocracy myth on young AAPI women. Come for roasting the racist capitalist patriarchy and sharing tips and tricks on taking care of our bodies and mind!</p>
+                <p class="overflow-auto card-text h-50">Ever heard of the AAPI Girlboss? The Asian American young woman who pulls all nighters for work or assignments, misses meals because she is simply glued to her desk and can't get away, has an itemized color-coded calendar full of meetings, events, and extracurriculars, and looks like she has it all together as she moves up the social and economic ladder. Looking at her, it seems the harder you work, the more successful you are. But the reality is far harsher: she's not life goals. She's unhealthy, a workaholic, and probably has crumbling mental health as she fights to prove she's good enough in a predominantly white male society. This workshop aims to dismantle the trope of the AAPI girlboss by unpacking the effects of the model minority and meritocracy myth on young AAPI women. Come for roasting the racist capitalist patriarchy and sharing tips and tricks on taking care of our bodies and mind!</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted"><button type="button" class="btn btn-outline-success">Register</button></small>

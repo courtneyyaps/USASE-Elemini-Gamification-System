@@ -2,32 +2,36 @@
     src: url(../fonts/CheddarGothicRough-Regular.otf);
     font-family: cheddar;
 }
+@font-face {
+    src: url(../fonts/QuisasStandard-Regular.otf);
+    font-family: quis;
+}
 .pageHeader, .sectionHeader {
     text-align: center;
     font-family: cheddar;
-    margin-top: 5%;
+    margin-top: 2%;
 }
 .sectionHeader {
     margin-bottom: 2%;
 }
 .instructions {
-    margin: 5%;
-    margin-left: 10%;
-    margin-right: 10%;
-}
-.bottom {
-    background: #386033;
+    margin: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 .section {
     padding-left: 5%;
     padding-right: 5%;
-    height: 25pt;
-    max-height: 55pt;
 }
 .last {
     margin-bottom: 10%;
 }
-.badge {
-    padding: 10pt;
+.card {
+    margin-bottom: 5%;
 }
-
+h5 .card-title {
+    font-family: cheddar;
+}
+h6 .card-title {
+    font-family: quis;
+}
