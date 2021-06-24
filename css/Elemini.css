@@ -1,16 +1,16 @@
 body{
-  background-color: #d3d3d3;
+  background-color: #ce954b;
+  /*background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(background.png);*/
 }
 
 .backgroundImage {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(mainPic.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/mainPic.jpg);
   /*height: 850px;*/
   height: 50vw;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  
 }
 
 .title {
@@ -19,7 +19,6 @@ body{
   top: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
-  
 }
 
 .eleminiTitle{
@@ -32,13 +31,13 @@ body{
 #topTitle{
   margin-bottom:0;
   font-size: 2.5vw;
-  color: lightgray;
+  color: #838383;
 }
 
 #bottomTitle{
   margin-top:0;
   font-size: 2.5vw;
-  color: burlywood;
+  color: #ce954b;
 }
 
 .centerLine{
@@ -52,7 +51,9 @@ body{
   width: 85%;
   padding: 10px;
   text-align: center;
-  background-color: #FED2B8;
+  /*
+  background-color: #FED2B8;*/
+  background-color: #feccb8;
   padding-left: 8%;
   padding-right: 8%;
   border-radius: 35px;
@@ -69,8 +70,8 @@ body{
 }
 
 .registerButton{
-  margin-left: 10%;
-  margin-top: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   background-color: #679058;
   color: white;
   font-size: 20px;
@@ -83,12 +84,7 @@ body{
 .registerButton:hover{
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
-@media only screen and (max-width: 600px) {
-  .backgroundImage, .registerButton{
-    width: 100%;
-  }
-}
-
+/*
 .halfColumn {
   float: left;
   width: 50%;
@@ -97,6 +93,14 @@ body{
 .fourthColumn {
   float: left;
   width: 24%;
+}*/
+
+.workshopTitle{
+  text-align: center;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .tab{
@@ -110,9 +114,66 @@ body{
   clear: both;
 }
 
+/*
 ul{
   list-style-position: inside;
   padding: 0px;
   margin: 0px;
+}*/
+
+.flex-container {
+  /* We first create a flex layout context */
+  display: flex;
+  
+  /* Then we define the flow direction 
+     and if we allow the items to wrap 
+   * Remember this is the same as:
+   * flex-direction: row;
+   * flex-wrap: wrap;
+   */
+  flex-flow: row wrap;
+  /*align-content: stretch;*/
+  /* Then we define how is distributed the remaining space */
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  margin-bottom: 15px;
 }
 
+.flex-item {
+  background: #679058;
+  padding: 5px;
+  width: 360px;
+  height: auto;
+  color: white;
+  text-align: center;
+}
+
+.flex-item .name{
+  font-family: 'Quicksand', sans-serif;
+  margin-bottom: 0;
+}
+.flex-item .description{
+  font-family: 'Archivo Narrow', sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+  .registerButton{
+    width: 100%;
+  }
+  .descriptionSection #title{
+    letter-spacing: 0px;
+    font-size: 27px;
+  }
+  .descriptionSection{
+    font-size: 15.5px;
+  }
+  .flex-item {
+    margin-bottom: 15px;
+  }
+
+  .flex-container{
+    margin-bottom: 0;
+  }
+}
