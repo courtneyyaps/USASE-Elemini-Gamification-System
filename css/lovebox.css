@@ -33,12 +33,13 @@ form {
     padding-top: 1%;
 }
 .grass {
-    margin-top: -20%;
+    margin-top: -25%;
     min-width: 100%;
     max-width: 100%;
+    z-index: 0;
 }
 .bottom {
-    background: #007231;
+    background: #386033;
 }
 
 /*source: https://codepen.io/floorvrmt/pen/qQPEKQ*/
